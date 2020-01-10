@@ -2,7 +2,7 @@
 
 # O exemplo busca a imagem na pasta do Dropbox e a exibe na tela
 
-Para testar, rode o seguinte comando na pasta getImageTest:
+Para testar, rode o seguinte comando na pasta getImageExample:
 
 ```
 yarn install
