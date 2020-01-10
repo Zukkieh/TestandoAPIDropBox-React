@@ -7,7 +7,7 @@ import './App.css'
 export default function App() {
   const [image, setImage] = useState([]);
   const [imageError, setImageError] = useState('');
-  const dbx = new Dropbox({ fetch:fetch, accessToken: '<YOUR KEY IN HERE>' });
+  const dbx = new Dropbox({ fetch:fetch, accessToken: '<YOUR TOKEN IN HERE>' });
 
   useEffect( () => {
     async function getTst(name){
