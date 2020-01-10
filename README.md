@@ -1,6 +1,7 @@
-# Testando Api Dropbox
-
-# O exemplo busca a imagem na pasta do Dropbox e a exibe na tela
+<p align="center">
+  <b>Testando Api Dropbox</b><br>
+  <span>O exemplo busca a imagem na pasta do Dropbox e a exibe na tela</span><br>
+</p
 
 Para testar, rode o seguinte comando na pasta getImageExample:
 
